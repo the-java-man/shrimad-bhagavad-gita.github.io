@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Shrimad Bhagavad Gita
+
 
 You can use the [editor on GitHub](https://github.com/the-java-man/shrimad-bhagavad-gita.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
